@@ -1,0 +1,12 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "4.21",
+	"Category": "",
+	"Description": "Example project for the Blueprint Streams plugin",
+	"Plugins": [
+		{
+			"Name": "BlueprintStreams",
+			"Enabled": true
+		}
+	]
+}
