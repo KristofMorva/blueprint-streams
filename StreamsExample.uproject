@@ -1,12 +1,13 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.21",
+	"EngineAssociation": "4.25",
 	"Category": "",
 	"Description": "Example project for the Blueprint Streams plugin",
 	"Plugins": [
 		{
 			"Name": "BlueprintStreams",
-			"Enabled": true
+			"Enabled": true,
+			"MarketplaceURL": "com.epicgames.launcher://ue/marketplace/content/beee7b0ecf204728a7db3c337ea76c04"
 		}
 	]
 }
